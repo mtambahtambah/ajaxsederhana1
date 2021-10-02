@@ -8,7 +8,7 @@
 <li>mysql 5</li>
 </ol>
 
-<img src="./gambar/default1.PNG" width="100%" height="135px">
+<img src="./gambar/default1.PNG" width="100%" height="255px">
 
 ## step 1
 buat database seperti dibawah ini :
